@@ -2,7 +2,7 @@ export * as Logo from './Logo.mjs'
 
 export const state = {
   hero: {
-    title: ['@inter', 'space'],
+    title: ['@interspace', '.chat'],
     description: 'Virtual conferencing made simple',
 
     menu: [
@@ -14,7 +14,7 @@ export const state = {
 
   footer: {
     one: {
-      title: 'interspace',
+      title: 'interspace.chat',
       before: ['description text'],
       menu: [{ to: '/privacy/', text: 'privacy notice' }],
     },
