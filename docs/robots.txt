@@ -1,0 +1,3 @@
+user-agent: *
+allow: /
+sitemap: https://interspacechat.github.io/magic-theme/sitemap.xml
