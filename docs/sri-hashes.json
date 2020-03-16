@@ -6,8 +6,6 @@
     "/magic-theme/404/": "sha384-N8NssnQPr944K+sAGjWXjM70UwAAVSJzY7aMKY9w9+XsiPTACfd36sY+dWcsbsIj"
   },
   "static": {
-    "/favicon.ico": "sha384-DHywgcbT7fB2j3iPP66pnc0p6LuDiWbQE/LocSYt94H7XML1Vp+WR6RphRAAEhZR",
-    "/img/interspacechat.png": "sha384-ZvQHj/vMxFGZN3CKwAaAdKSMrmhfn746fBA6gW26DcGw8OYIg68ya1mquINQ7t5/",
     "/robots.txt": "sha384-ElmZzk/sHg6ol44f7JGK043KmVFzLeI5hdt64QCpm/658qZpHB7/dP2xcHaTNv4C",
     "/sitemap.xml": "sha384-6MqACnNlGBdzlavZ4P8+EUS600y4rxaYNXY5unzQOh/U3m4m6iO2rfrlcC0uJGyT"
   }
