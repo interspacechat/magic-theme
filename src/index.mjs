@@ -39,7 +39,7 @@ export const state = {
 
 export const vars = {
   background: {
-    dark: '#434343',
+    dark: '#202020',
     light: '#f3f3f3',
   },
 
